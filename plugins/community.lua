@@ -8,4 +8,6 @@ return {
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.pack.zig" },
 }
